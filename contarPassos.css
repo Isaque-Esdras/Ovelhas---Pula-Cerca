@@ -1,0 +1,29 @@
+body{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    line-height: 50px;
+    background-color: rgb(143, 192, 71);
+    color: aliceblue;
+    font: normal 18pt italic;
+}
+
+section{
+    width: 80%;
+    height: 500px;
+    box-shadow: 10px 10px 5px black;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    background: rgb(27, 140, 185);
+}
+
+div#diva{
+text-align: start;
+margin: 6px;
+}
+
+button{
+    border-radius: 10px;
+    width: 60px;
+}
